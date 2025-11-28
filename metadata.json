@@ -1,0 +1,5 @@
+{
+  "name": "AlterEvo",
+  "description": "An AI-powered photo transformation app that allows users to upload a selfie and instantly convert themselves into different stylized versions, such as a Pixar character, an anime character, a 90s kid, and more.",
+  "requestFramePermissions": []
+}
